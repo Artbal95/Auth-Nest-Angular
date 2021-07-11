@@ -1,0 +1,1 @@
+export const PRODUC_NAME_EXIST_ERROR = 'This name is already exist'

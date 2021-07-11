@@ -1,0 +1,1 @@
+export const ID_VALIDATION_PIPE_ERROR = 'This id is`n correct'
